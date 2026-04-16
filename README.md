@@ -2,7 +2,7 @@
 
 Simple Telegram bot to view your class schedule from `schedule.json`.
 
-![Bot preview](images/preview.png)
+<img src="images/preview.png" width="300"/>
 
 ## Features
 
